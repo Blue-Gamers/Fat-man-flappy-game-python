@@ -1,0 +1,7 @@
+1. Open MU
+2. Load button open flappybird.py
+3. copy all images from folder
+4. Click on images button on MU and paste all images
+5. copy all fonts from folder and paste in mu fonts button
+6. do the same things with sounds
+7. Finally press play :)
